@@ -3,6 +3,23 @@
 # To deny specific passwords, user '!password'
 # The file is processed linearly, denials need to happen before allows.
 # Default config allows all root passwords except 'root' and '123456'
-root:0:!root
-root:0:!123456
-root:0:*
+root:0:miriam
+root:0:february
+root:0:cocacola
+root:0:123654
+root:0:benjamin
+root:0:eeyore
+root:0:manuel
+root:0:angelica
+root:0:loverboy
+root:0:xxxxxx
+root:0:parola
+root:0:snoopy
+root:0:princess
+root:0:arturo
+root:0:whitney
+root:0:cinderella
+root:0:sweetness
+root:0:piglet
+root:0:legolas
+root:0:nicole
